@@ -11,3 +11,9 @@ The vast genetic diversity between Asian and European pig breeds harbors valuabl
 Our research offers a comprehensive and in-depth exploration of the genomic landscape of pigs, shedding light on the genetic basis of adaptation and agronomic characteristics. The construction of the largest pig graph pan-genome and the development of improved SV detection methods provide invaluable resources for future research in pig genomics.
 
 If you have any questions in the process and article, please feel free to contact me (lidong9866(@)nwsuaf.edu.cn).
+
+# Please cite us:
+Dong Li, Yulong Wang, Tiantian Yuan, Minghao Cao, Yulin He, Lin Zhang, Xiang Li et al. 2024. “Pangenome and genome variations analysis of pigs unveil genomic facets for its adaptation and agronomic characteristics.” iMeta 3. e257. https://doi.org/10.1002/imt2.257.
+
+# Paper website:
+https://onlinelibrary.wiley.com/doi/10.1002/imt2.257
